@@ -1,9 +1,9 @@
 {
   "name": "kamilov-scripts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Server tools cli that acts like react-scripts",
   "bin": {
-    "server-tools": "./bin/index.js"
+    "kamilov-scripts": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
