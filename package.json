@@ -2,6 +2,7 @@
   "name": "kamilov-scripts",
   "version": "1.0.3",
   "description": "Server tools cli that acts like react-scripts",
+  "main": "/bin/index.js",
   "bin": {
     "kamilov-scripts": "./bin/index.js"
   },
