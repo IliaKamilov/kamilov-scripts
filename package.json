@@ -1,5 +1,5 @@
 {
-  "name": "kamilov-tools",
+  "name": "kamilov-scripts",
   "version": "1.0.0",
   "description": "Server tools cli that acts like react-scripts",
   "bin": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IliaKamilov/kamilov-tools.git"
+    "url": "git+https://github.com/IliaKamilov/kamilov-scripts.git"
   },
   "author": {
     "name": "Ilia Kamilov",
@@ -18,7 +18,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IliaKamilov/kamilov-tools/issues"
+    "url": "https://github.com/IliaKamilov/kamilov-scripts/issues"
   },
-  "homepage": "https://github.com/IliaKamilov/kamilov-tools#readme"
+  "homepage": "https://github.com/IliaKamilov/kamilov-scripts#readme"
 }
