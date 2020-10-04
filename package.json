@@ -1,6 +1,6 @@
 {
   "name": "kamilov-scripts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Server tools cli that acts like react-scripts",
   "bin": {
     "kamilov-scripts": "./bin/index.js"
